@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "rqtrackerbot",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4953e758-2f1b-42aa-b58c-0c7ca216ec9a",
+      "database_name": "leave_tracker_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
